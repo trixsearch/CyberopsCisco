@@ -6,8 +6,7 @@
   
 - [Download Packet Tracer from Cisco Site](https://www.netacad.com/portal/resources/packet-tracer)
   
-_  [Check Out the Manual to download Cisco Packet Tracer](https://github.com/trixsearch/CyberopsCisco/blob/ratme/Cisco%20Packet%20Tracer%20Download%20Materials.pdf)
-_
+[*Check Out the Manual to download Cisco Packet Tracer*](https://github.com/trixsearch/CyberopsCisco/blob/ratme/Cisco%20Packet%20Tracer%20Download%20Materials.pdf)
 
 - [Top Hacker Shows Us How It’s Done Pablos Holman at TEDxMidwests](https://www.youtube.com/watch?v=hqKafI7Amd8)
 
