@@ -3,6 +3,8 @@
 ###### You will have Everything listed here in the readme file and all the other links will be provided as well , if not or for any query you can contact to our developer and writer with the email by [clicking here](mailto:inforatme@gmail.com)
 
 - [Check Recorded and live lectures at one place](https://github.com/trixsearch/CyberopsCisco/blob/ratme/AllYTVideos.md)
+
+- [Check out the cisco Associate playlist](https://www.youtube.com/playlist?list=PL1U-z6tCj5WBwy4WoMS3jSi7WE4AGOUcY)
   
 - [Download Packet Tracer from Cisco Site](https://www.netacad.com/portal/resources/packet-tracer)
   
